@@ -40,7 +40,7 @@ I am a highly skilled and experienced developer with expertise in various web de
 
 ## Education and Certifications
 
-- **Bachelor's Degree in Computer Science**, [Shridevi Institute of Engineering and Technology, Tumkur, Karnataka](https://www.siet.ac.in) :school: (Expected Graduation: 2025) :calendar:
+- **Bachelor's Degree in Computer Science**, [Shridevi Institute of Engineering and Technology, Tumkur, Karnataka](https://shrideviengineering.org/) :school: (Expected Graduation: 2025) :calendar:
 - **Google Associate Android Developer Certification**
 - **Certified Scrum Master (CSM)**
 
